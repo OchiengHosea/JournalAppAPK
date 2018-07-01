@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hosea.ochieng.journalapp.JournalDetail">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="1002"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="101"
+        android:title="@string/action_logout_label"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_edit_entry"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_edit_black_24dp"
+        android:title="@string/action_edit_entry_label"
+        app:showAsAction="always" />
+
+</menu>

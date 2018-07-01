@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recent_entries_tv_label">Recent Entries</string>
+    <string name="action_logout_label">Log out</string>
+    <string name="action_add_entry_label">Add Entry</string>
+    <string name="new_entry_subject_hint">Subject</string>
+    <string name="new_entry_date_label">Due Date : </string>
+    <string name="edit_entry_date_label">Set Due Date : </string>
+    <string name="new_entry_time_label">Due Time : </string>
+    <string name="add_button_label">Add Entry</string>
+    <string name="cancel_btn_label">Cancel</string>
+    <string name="use_today_check_label">Today</string>
+    <string name="new_entry_content_label">Content/Description</string>
+    <string name="new_entry_content_hint">Enter your Content here</string>
+    <string name="new_entry_time_check_now_label">Now</string>
+    <string name="set_date_hint">Press the Due Date button to set time and date</string>
+    <string name="user_db_ref_name">users</string>
+    <string name="journal_db_ref">journals</string>
+    <string name="action_edit_entry_label">Edit Entry</string>
+    <string name="detail_subject_label">Subject</string>
+    <string name="published_date_label">Entry Date</string>
+    <string name="detail_completed_label">Completed</string>
+    <string name="detail_not_completed_label">Completed</string>
+    <string name="detail_status_label">Status : </string>
+    <string name="detail_complete_confirm">Complete</string>
+    <string name="detail_save_edits_label">Save Edtis</string>
+    <string name="cancel_editing_btn_string">Cancel Editing</string>
+    <string name="delete_label">Delete</string>
+    <string name="entry_successfull_title">Entry Successful!</string>
+    <string name="entry_successfull_message">Do you want to continue adding?</string>
+    <string name="entry_error">Error!</string>
+    <string name="due_date_prepend_text">Due : </string>
+    <string name="created_date_prepend_label">Created :  </string>
+    <string name="confirm_delete_text">Confirm Delete</string>
+    <string name="confirm_delete_message">Do you really want to delete this entry?</string>
+    <string name="prompt_when_no_entries">No Resent Entries, Add new</string>
+</resources>
