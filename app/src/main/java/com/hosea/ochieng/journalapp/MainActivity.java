@@ -256,7 +256,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             progressBar.setVisibility(View.GONE);
             signInButton.setVisibility(View.GONE);
             mainLinearLayout.setVisibility(View.VISIBLE);
-
             getAllJournals(user.getUid());
 
         }else{
